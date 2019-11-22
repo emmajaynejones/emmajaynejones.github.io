@@ -175,7 +175,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #E27689;
+			color: #EBEA64;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -2247,7 +2247,7 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #81918E;
+				background-color: #EBEA64;
 				background-image: url("../../images/banner.jpg");
 			}
 
