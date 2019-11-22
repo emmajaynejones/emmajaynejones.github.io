@@ -1948,7 +1948,7 @@ input, select, textarea {
 		color: #fff !important;
 		text-decoration: none;
 		padding: 0.75em 2.5em 0.75em 2.5em;
-		background-color: #754A7E;
+		background-color: #EBEA64;
 		border: 0;
 		cursor: pointer;
 		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay1.png");
@@ -2169,7 +2169,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #EBEA64;
+						color: #754A7E;
 					}
 
 /* Footer */
@@ -2247,7 +2247,7 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #EBEA64;
+				background-color: #754A7E;
 				background-image: url("../../images/banner.jpg");
 			}
 
