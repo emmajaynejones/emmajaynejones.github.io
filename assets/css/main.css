@@ -1757,7 +1757,7 @@ input, select, textarea {
 		.image.avatar48 {
 			width: 48px;
 			height: 48px;
-			background: #717274;
+			background: #ffffff;
 		}
 
 			.image.avatar48 img {
@@ -1923,7 +1923,7 @@ input, select, textarea {
 			text-align: left;
 			padding: 0.5em 1em 0.5em 1em;
 			color: #fff;
-			background: #717274;
+			background: #ffffff;
 		}
 
 		table thead {
@@ -2079,7 +2079,7 @@ input, select, textarea {
 		}
 
 			#header .icons a {
-				color: #717274;
+				color: #ffffff;
 				-moz-transition: color 0.35s ease-in-out;
 				-webkit-transition: color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out;
@@ -2165,7 +2165,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #717274;
+						color: #ffffff;
 					}
 
 /* Footer */
