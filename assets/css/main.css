@@ -1757,7 +1757,7 @@ input, select, textarea {
 		.image.avatar48 {
 			width: 48px;
 			height: 48px;
-			background: #f1f3f3;
+			background: #717274;
 		}
 
 			.image.avatar48 img {
@@ -2079,7 +2079,7 @@ input, select, textarea {
 		}
 
 			#header .icons a {
-				color: #f1f3f3;
+				color: #717274;
 				-moz-transition: color 0.35s ease-in-out;
 				-webkit-transition: color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out;
@@ -2165,7 +2165,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #f1f3f3;
+						color: #717274;
 					}
 
 /* Footer */
