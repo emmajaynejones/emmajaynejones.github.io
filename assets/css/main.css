@@ -1923,7 +1923,7 @@ input, select, textarea {
 			text-align: left;
 			padding: 0.5em 1em 0.5em 1em;
 			color: #fff;
-			background: #99c7be;
+			background: #717274;
 		}
 
 		table thead {
@@ -2165,7 +2165,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #a6a6a6;
+						color: #f1f3f3;
 					}
 
 /* Footer */
