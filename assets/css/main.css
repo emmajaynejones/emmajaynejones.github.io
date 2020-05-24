@@ -175,7 +175,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #f794b8;
+			color: #f1f3f3;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -1757,7 +1757,7 @@ input, select, textarea {
 		.image.avatar48 {
 			width: 48px;
 			height: 48px;
-			background: #f794b8;
+			background: #f1f3f3;
 		}
 
 			.image.avatar48 img {
@@ -1948,13 +1948,13 @@ input, select, textarea {
 		color: #fff !important;
 		text-decoration: none;
 		padding: 0.75em 2.5em 0.75em 2.5em;
-		background-color: #f794b8;
+		background-color: #f1f3f3;
 		border: 0;
 		cursor: pointer;
-		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
-		background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
-		background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
-		background-image: linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
+		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url();
+		background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/.png");
+		background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/.png");
+		background-image: linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/.png");
 		-moz-transition: background-color 0.35s ease-in-out;
 		-webkit-transition: background-color 0.35s ease-in-out;
 		-ms-transition: background-color 0.35s ease-in-out;
@@ -1966,7 +1966,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #f794b8;
+			background-color: #f1f3f3;
 		}
 
 		input[type="button"]:active,
@@ -1974,7 +1974,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background-color: #f7cdd1;
+			background-color: #a6a6a6;
 		}
 
 /* Item */
@@ -2083,7 +2083,7 @@ input, select, textarea {
 		}
 
 			#header .icons a {
-				color: #f794b8;
+				color: #f1f3f3;
 				-moz-transition: color 0.35s ease-in-out;
 				-webkit-transition: color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out;
@@ -2156,7 +2156,7 @@ input, select, textarea {
 					#nav ul li a span:before {
 						position: absolute;
 						left: 0;
-						color: #f7cdd1;
+						color: #a6a6a6;
 						text-align: center;
 						width: 1.25em;
 						line-height: 1.75em;
@@ -2169,7 +2169,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #f7cdd1;
+						color: #a6a6a6;
 					}
 
 /* Footer */
@@ -2247,8 +2247,8 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #f7cdd1;
-				background-image: url("images/NewSkullHeader.png");
+				background-color: #a6a6a6;
+				background-image: url("images/DiverseBanner.png");
 			}
 
 			#main > section.two {
